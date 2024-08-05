@@ -9,7 +9,7 @@ const fetchData3 = () =>
 //   const data1 = await fetchData1();
 //   const data2 = await fetchData2();
 //   const data3 = await fetchData3();
-//   return [data1, data2,+ data3];
+//   return [data1, data2,data3];
 // };
 
 const fetchedPromiseAll = async () => {
